@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barisaskaleli
-- 👀 I’m interested in php
+- 👀 I’m interested in golang
 - 📫 How to reach me barisaskaleli@gmail.com
 
 <!---
